@@ -7,21 +7,21 @@
 */
 int main(void)
 {
-			int i;
-					char l;
+	int i;
+	char l;
 
-							i = 48;
-									while  (i < 58)
-									{
-												putchar(i);
-														i++;
-									}
-											l = 'a';
-													while (l <= 'f')
-													{
-																putchar(l);
-																		l++;
-													}
-															putchar('\n');
-																	return (0);
+	i = 48;
+	while  (i < 58)
+{
+	putchar(i);
+	i++;
+}
+	l = 'a';
+	while (l <= 'f')
+{
+	putchar(l);
+	l++;
+}
+	putchar('\n');
+	return (0);
 }
