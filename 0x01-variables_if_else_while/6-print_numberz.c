@@ -11,8 +11,10 @@ int main(void)
 	while (f < 58)
 {
 	putchar(f);
+
 	f++;
 }
 	putchar('\n');
+
 	return (0);
 }
