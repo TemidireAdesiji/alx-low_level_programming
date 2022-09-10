@@ -10,6 +10,7 @@ int main(void)
 	char j;
 	
 	j = 'z';
+
 	while (j >= 'a')
 
 {
@@ -18,5 +19,6 @@ int main(void)
 	j--;
 }
 	putchar('\n');
+	
 	return (0);
 }
