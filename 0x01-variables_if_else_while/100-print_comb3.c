@@ -32,11 +32,11 @@ int main(void)
 																		{
 																																					j++;
 }
-																			else
-																																				{
+	else
+{
 																																					i++;
 																																					j = 1 + i;
-																																																	}
+i																																																	}
 																		}
 																		}
 	return (0);
