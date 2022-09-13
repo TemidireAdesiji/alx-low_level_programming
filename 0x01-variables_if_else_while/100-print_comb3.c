@@ -19,9 +19,9 @@ int main(void)
 	putchar(j);
 	if ((i == 56) && (j == 57))
 {
-																			putchar('\n');
-																			i++;
-																			j++;
+	putchar('\n');
+	i++;
+	j++;
 																		}
 	else
 																		{
@@ -29,7 +29,7 @@ int main(void)
 	putchar(32);
 	if (j < 57)
 {
-																																					j++;
+	j++;
 }
 	else
 {
