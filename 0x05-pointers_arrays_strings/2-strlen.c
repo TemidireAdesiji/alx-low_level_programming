@@ -1,5 +1,3 @@
-Task 2
-
 #include "main.h"
 
 /**
@@ -12,7 +10,7 @@ int _strlen(char *s)
 {
 	int m = 0;
 
-	while s[m]
-		m++;
+	while (s[m])
+	m++;
 	return (m);
 }
