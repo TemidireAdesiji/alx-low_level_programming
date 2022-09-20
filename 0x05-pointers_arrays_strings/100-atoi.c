@@ -42,6 +42,7 @@ int idx_num_starts(char *s)
  * s: integer
  * Return: integer 1 or -1
  */
+`
 int find_sign(char *s)
 {
 	int negatives = 0, i = 0, sign = 1;
